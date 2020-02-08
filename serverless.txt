@@ -1,0 +1,3 @@
+Serverless framework provides a nice interface to work with AWS Lambda service from commandline.
+The tools needed for making this experience very immersive are:
+  Atom - the text editor from MIT.
